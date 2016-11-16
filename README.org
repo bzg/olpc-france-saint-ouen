@@ -8,7 +8,32 @@
 
 * Historiques
 
-- BG: Février 2016 : Sandra fait remonter une demande des élèves de
+- Céline et Sandrine : 2 et 29 septembre 2015 : Préparation de la
+  classe avec Céline.
+
+- 6 octobre 2015 : Sandrine co-intervient en classe avec Céline,
+  introduction des XO en classe.
+
+- 23 novembre 2015 : bilan avec OLPC France sur l’utilisation des XO
+  et les besoins en pédagogie.
+
+- 11 décembre 2015 : Sandrine fait un bilan avec Céline.
+
+- 19 janvier 2016 : Co-intervention (Sandrine et Céline) en classe sur
+  la création de jeux sérieux puis bilan.
+
+- 27 janvier 2016 : réunion PICRI : Sandrine va voir Sandra à
+  l’université pour faire des progressions pédagogiques à partir des
+  activités des XO.
+
+- 29 janvier : Sandrine participe à une journée de conférences et de
+  formations sur la pédagogie inversée avec M. Lebrun et autres.
+
+- 3 février 2016 : Sandrine fait un bilan avec Céline.
+
+- 9 février 2016 : Sandrine fait un bilan avec Muriel.
+
+- Février 2016 : Sandra fait remonter une demande des élèves de
   pouvoir prendre leur ordinateur à domicile.
 
 - MPC: 18 février 2016 : les élèves de CM2 ont fait cette demande à
@@ -17,29 +42,61 @@
   continuer de l'utiliser pendant les deux semaines d'absence de
   l'école pendant les vacances de février.
 
-- BG: 7 avril 2016 : réunion avec Céline, Sandra, Manoya, Muriel,
-  Lionel, Bastien (voir le [[https://olpc-france.org/wiki/index.php?title=Compte_rendu_reunion_saintouen_avril_2016][compte-rendu]])
+- 19 février 2016 : bilan avec Lionel (OLPC France) pour adapter les
+  supports aux besoins pédagogiques de la classe.
 
-- BG: 8 avril 2016 : remontée d'un bug par Muriel : dans TuxMath, le
-  jeu Factoroide fonctionne mais au bout d’un moment assez court (1 à
-  2 minutes) renvoie à la page d’accueil.
+- 8 mars 2016 : Réunion mairie/OLPC pour faire un partage et un retour
+  d’expériences techniques et pédagogiques en vue de dupliquer
+  l’expérimentation sur d’autres classes.
 
-- BG: 12 avril : Retour de Sandrine sur l'écran qui se fige,
-  validation possibilité de reflashage des machines fin août.
+- 18 mars 2016 : Rendez-vous Sandrine, Manoya et Muriel, premiers
+ bilans d’observations directives pour celles à venir.
 
-- BG: 13 avril : Lionel fait un retour sur le bug de lecture vidéo.
+- 1 avril 2016 : Sandrine et Céline : aide à la manipulation des XO,
+  trouver des parades pour les problèmes rencontrés.
 
-- BG: 10 mai : Céline envoie de nouveaux fichiers à mettre sur le serveur.
+- 5 avril 2016 : Bilan de Sandrine avec Céline.
 
-- BG: 12 mai : visite dans la classe et installation du serveur (voir [[https://olpc-france.org/blog/2016/05/olpc-france-installe-un-serveur-de-contenus-pour-lecole-de-saint-ouen/][blog]]) - correction bug clavier qwerty pour tuxmath.
+- 7 avril 2016 : Réunion OLPC France avec Céline, Sandra, Manoya,
+  Muriel, Lionel, Bastien (voir le [[https://olpc-france.org/wiki/index.php?title=Compte_rendu_reunion_saintouen_avril_2016][compte-rendu]]).
 
-- MPC. 1er juin 2016 : échange avec Bastien sur la visite du 12
-  mai. Le bug tuxmath n'était pas technique, le clavier reste en
-  QWERTY sur tuxmath, les élèves ont eu l'explication par Bastien.
+- 8 avril 2016 : Remontée d'un bug par Muriel auprès d'OLPC France :
+  dans TuxMath, le jeu Factoroide fonctionne mais au bout d’un moment
+  assez court (1 à 2 minutes) renvoie à la page d’accueil.
 
-- SU : Juin : Céline aurait la possibilité de travailler sur des
+- 12 avril 2016 : Retour de Sandrine auprès d'OLPC France sur l'écran
+  qui se fige, validation de la possibilité de reflashage des machines
+  fin août.
+
+- 13 avril 2016 : Lionel fait un retour sur le bug de lecture vidéo.
+
+- 15 avril 2016 : dépannage (?).
+
+- 10 mai 2016 : Céline envoie de nouveaux fichiers à mettre sur le
+  serveur que Bastien (OLPC France) met sur le serveur offline.
+
+- 12 mai 2016 : Avec Sandrine et M. Leroux, visite de Bastien (OLPC
+  France) dans la classe de Céline et installation du serveur (voir
+  [[https://olpc-france.org/blog/2016/05/olpc-france-installe-un-serveur-de-contenus-pour-lecole-de-saint-ouen/][blog]]).  Correction du bug de clavier qwerty pour Tuxmath.
+
+- 1er juin 2016 : Échange entre Muriel avecet Bastien sur la visite du
+  12 mai.  Le bug tuxmath n'était pas technique, le clavier reste en
+  QWERTY sur Tuxmath, les élèves ont eu l'explication par Bastien.
+
+- 22 juin 2016 : bilan OLPC avec Bastien et élèves qui sont partis à
+  Madagascar.  Amélioration du serveur pour que les élèves aient accès
+  aux supports pédagogiques préparés pour les enfant de Nosy Komba.
+
+- 7 juillet 2016 : Bilan OLPC avec Bastien, Lionel, Sandra, Pierre
+  Varly et Helen Abadzi, chercheuse en sciences cognitives.
+
+- Juin 2016 : Céline aurait la possibilité de travailler sur des
   tablettes dès la rentrée, ce qui éviterait de déplacer les XO et
   d'adapter l'expérimentation aux besoins de Céline.
+
+- 9 novembre 2016 : Réunion Saint-Ouen avec Muriel, Sandrine, Lionel
+  et Bastien.  Présentation du travail de Muriel.  ([[https://olpc-france.org/wiki/index.php?title=Compte_rendu_reunion_saintouen_9_novembre_2016][Compte-rendu de la
+  réunion]]).
 
 * Questions
 
