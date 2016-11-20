@@ -18,6 +18,9 @@
 
 - 11 décembre 2015 : Sandrine fait un bilan avec Céline.
 
+- 20 décembre 2015 : Lionel fournit la procedure pour mettre le
+  clavier des XO en AZERTY.
+
 - 19 janvier 2016 : Co-intervention (Sandrine et Céline) en classe sur
   la création de jeux sérieux puis bilan.
 
@@ -52,7 +55,8 @@
  bilans d’observations directives pour celles à venir.
 
 - 1 avril 2016 : Sandrine et Céline : aide à la manipulation des XO,
-  trouver des parades pour les problèmes rencontrés.
+  trouver des parades pour les problèmes rencontrés (problème TuxMath
+  en AZERTY, problème flashage).
 
 - 5 avril 2016 : Bilan de Sandrine avec Céline.
 
@@ -63,20 +67,21 @@
   dans TuxMath, le jeu Factoroide fonctionne mais au bout d’un moment
   assez court (1 à 2 minutes) renvoie à la page d’accueil.
 
+- 9 avril 2016 : Lionel envoi la procedure permettant de corriger le
+  problème de TuxMath lorsque le clavier des XO en AZERTY.
+
 - 12 avril 2016 : Retour de Sandrine auprès d'OLPC France sur l'écran
   qui se fige, validation de la possibilité de reflashage des machines
   fin août.
 
 - 13 avril 2016 : Lionel fait un retour sur le bug de lecture vidéo.
 
-- 15 avril 2016 : dépannage (?).
-
 - 10 mai 2016 : Céline envoie de nouveaux fichiers à mettre sur le
   serveur que Bastien (OLPC France) met sur le serveur offline.
 
 - 12 mai 2016 : Avec Sandrine et M. Leroux, visite de Bastien (OLPC
   France) dans la classe de Céline et installation du serveur (voir
-  [[https://olpc-france.org/blog/2016/05/olpc-france-installe-un-serveur-de-contenus-pour-lecole-de-saint-ouen/][blog]]).  Correction du bug de clavier qwerty pour Tuxmath.
+  [[https://olpc-france.org/blog/2016/05/olpc-france-installe-un-serveur-de-contenus-pour-lecole-de-saint-ouen/][blog]]).  Correction du bug de clavier AZERTY pour Tuxmath.
 
 - 1er juin 2016 : Échange entre Muriel avecet Bastien sur la visite du
   12 mai.  Le bug tuxmath n'était pas technique, le clavier reste en
@@ -92,6 +97,9 @@
 - Juin 2016 : Céline aurait la possibilité de travailler sur des
   tablettes dès la rentrée, ce qui éviterait de déplacer les XO et
   d'adapter l'expérimentation aux besoins de Céline.
+
+- 7 novembre 2016: Lionel livre la nouvelle version de la clé de
+  flashage pour le XO.
 
 - 9 novembre 2016 : Réunion Saint-Ouen avec Muriel, Sandrine, Lionel
   et Bastien.  Présentation du travail de Muriel.  ([[https://olpc-france.org/wiki/index.php?title=Compte_rendu_reunion_saintouen_9_novembre_2016][Compte-rendu de la
