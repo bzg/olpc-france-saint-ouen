@@ -1,12 +1,6 @@
 #+TITLE: Historique et évolution du projet OLPC/Saint-Ouen
 
-* Contributeurs
-
-- BG : Bastien Guerry
-- MPC : Muriel Prévot-Carpentier
-- SU : Sandrine Ubeda
-
-* Historiques
+* Historique
 
 - 2 et 29 septembre 2015 : Céline et Sandrine préparent la classe.
 
@@ -107,6 +101,9 @@
 
 * Questions
 
-- Le serveur suivrait il Céline, ou le met on directement en ligne?
-- Quelle sera l'avancée de sugarizer à la rentrée 2016?
-- Qui serait intéressé par l'utilisation des XO sur Mandela et lancer une nouvelle expérience?
+- Le serveur suivrait-il Céline, où le met on directement en ligne ?
+
+- Quelle sera l'avancée de sugarizer à la rentrée 2016 ?
+
+- Qui serait intéressé par l'utilisation des XO sur Mandela et lancer
+  une nouvelle expérience ?
